@@ -10,36 +10,16 @@
 
 <h2 align="left">Skills</h2>
 
-###
-
-<table border="0">
-  <tr>
-    <td valign="top" width="220">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <td valign="top" width="220" style="border: none;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJmYzFpdml2MGE2MmxtMm1vZmRidHZzajJwbnk3bzBiZndodzI1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7dpXSrIk59nUeEvgX/giphy.gif" width="100%" />
     </td>
-    <td valign="top" style="padding-left: 30px;">
+    <td valign="top" style="padding-left: 30px; border: none;">
       <div align="left">
-        <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo" />
-        <img width="20" />
-        <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,laravel,tailwind,py,flutter" height="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps" height="55" />
       </div>
     </td>
   </tr>
@@ -49,29 +29,23 @@
 
 <h2 align="left">Social Media</h2>
 
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="https://www.instagram.com/ur.hraff_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
-
+  &nbsp;
   <a href="https://discord.com/users/heiraff" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
   </a>
-
+  &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=iyainajadeh95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/haidar-rafi-667032386/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=mhrk&color=0077B5&logoColor=white&labelColor=229ea7&style=for-the-badge" height="60" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
