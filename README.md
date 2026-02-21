@@ -59,11 +59,17 @@
 </picture>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hairaff95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hairaff95&radius=16&theme=tokyo-night&area=true&order=5&bg_color=000000&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=hi,%20im%20Rafi&fontSize=70&fontColor=97b5d3&fontAlign=23&fontAlignY=65&rotate=0&stroke=-&strokeWidth=0&animation=blink&color=3898ff" width="100%" />
 </div>
 
 ###
-A white circle with a dark file icon outlined in the center
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hairaff95&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="stats graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hairaff95&theme=tokyo-night&area=true&hide_border=false&bg_color=000000" height="300" alt="activity graph" />
+</div>
+
