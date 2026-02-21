@@ -61,9 +61,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairaff95&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
+  <img src="https://metrics.lecoq.io/hairaff95?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.details=lines,percentage" alt="Metrics" width="400" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hairaff95&theme=tokyo-night&area=true&hide_border=false&bg_color=000000" height="300" alt="activity graph" />
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hairaff95&theme=tokyo-night&area=true&hide_border=false" height="300" />
 </div>
 
