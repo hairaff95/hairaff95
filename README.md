@@ -12,35 +12,38 @@
 
 ###
 
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJmYzFpdml2MGE2MmxtMm1vZmRidHZzajJwbnk3bzBiZndodzI1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7dpXSrIk59nUeEvgX/giphy.gif" />
-
-<br><br>
-
-<div align="left" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo" />
-</div>
-
-###
+<table border="0">
+  <tr>
+    <td valign="top" width="220">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJmYzFpdml2MGE2MmxtMm1vZmRidHZzajJwbnk3bzBiZndodzI1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7dpXSrIk59nUeEvgX/giphy.gif" width="100%" />
+    </td>
+    <td valign="top" style="padding-left: 30px;">
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo" />
+        <img width="20" />
+        <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 
@@ -52,19 +55,19 @@
 
 <div align="left">
   <a href="https://www.instagram.com/ur.hraff_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo" />
   </a>
 
   <a href="https://discord.com/users/heiraff" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="discord logo" />
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=iyainajadeh95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo" />
   </a>
 
   <a href="https://www.linkedin.com/in/haidar-rafi-667032386/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=mhrk&color=0077B5&logoColor=white&labelColor=229ea7&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=mhrk&color=0077B5&logoColor=white&labelColor=229ea7&style=for-the-badge" height="60" alt="linkedin logo" />
   </a>
 </div>
 
@@ -88,6 +91,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hairaff95&locale=en&mode=weekly&theme=algolia&hide_border=true&border_radius=10" height="" alt="streak graph"  />
+  
+  <br><br><br>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hairaff95&area=true&hide_border=true&hide_title=true&theme=elegant&custom_title=my%20contributions&bg_color=030E2E&radius=10&line=00B2FF&point=00E293&area_color=00B2FF&color=00B2FF&title_color=FFFFFF" height="" alt="activity-graph graph"  />
 </div>
 
