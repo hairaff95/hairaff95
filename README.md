@@ -18,25 +18,25 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
 </div>
 
@@ -50,12 +50,26 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="left">
+  <a href="https://www.instagram.com/ur.hraff_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/heiraff" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="iyainajadeh95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/haidar-rafi-667032386/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=mhrk&color=0077B5&logoColor=&labelColor=229ea7&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">My Activities</h2>
 
 ###
 
@@ -70,8 +84,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hairaff95&locale=en&mode=weekly&theme=algolia&hide_border=true&border_radius=10" height="" style="padding= 10px" alt="streak graph"  />
-  <br>
+  <img src="https://streak-stats.demolab.com?user=hairaff95&locale=en&mode=weekly&theme=algolia&hide_border=true&border_radius=10" height="" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hairaff95&area=true&hide_border=true&hide_title=true&theme=elegant&custom_title=my%20contributions&bg_color=030E2E&radius=10&line=00B2FF&point=00E293&area_color=00B2FF&color=00B2FF&title_color=FFFFFF" height="" alt="activity-graph graph"  />
 </div>
 
