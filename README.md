@@ -61,10 +61,17 @@
 
 <br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hairaff95/hairaff95/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hairaff95/hairaff95/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hairaff95/hairaff95/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hairaff95&locale=en&mode=weekly&theme=algolia&hide_border=true&border_radius=10" height="" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hairaff95&locale=en&mode=weekly&theme=algolia&hide_border=true&border_radius=10" height="" style="padding= 10px" alt="streak graph"  />
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hairaff95&area=true&hide_border=true&hide_title=true&theme=elegant&custom_title=my%20contributions&bg_color=030E2E&radius=10&line=00B2FF&point=00E293&area_color=00B2FF&color=00B2FF&title_color=FFFFFF" height="" alt="activity-graph graph"  />
 </div>
 
