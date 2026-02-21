@@ -18,25 +18,25 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
 </div>
 
@@ -57,7 +57,7 @@
   <a href="https://discord.com/heiraff" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="iyainajadeh95@gmail.com" target="_blank">
+  <a href="mailto:iyainajadeh95@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/haidar-rafi-667032386/" target="_blank">
