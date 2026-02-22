@@ -29,19 +29,19 @@
 
 <div align="left">
   <a href="https://www.instagram.com/ur.hraff_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="55" width="240" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="55" width="190" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/heiraff" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="55" width="210" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="55" width="160" />
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=iyainajadeh95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="55" width="170" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="55" width="140" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/haidar-rafi-667032386/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="55" width="205" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="55" width="150" />
   </a>
 </div>
 
